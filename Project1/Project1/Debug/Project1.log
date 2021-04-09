@@ -1,0 +1,52 @@
+﻿  Income.cpp
+C:\Users\j9794\source\repos\Project1\Project1\Income.cpp(101,20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  Pay.cpp
+C:\Users\j9794\source\repos\Project1\Project1\Pay.cpp(97,20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  cashData.cpp
+C:\Users\j9794\source\repos\Project1\Project1\cashData.cpp(2,1): warning C4005: '_T': 매크로 재정의
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\tchar.h(2427): message : '_T'의 이전 정의를 참조하십시오.
+C:\Users\j9794\source\repos\Project1\Project1\cashData.cpp(87,21): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\j9794\source\repos\Project1\Project1\cashData.cpp(99,21): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\j9794\source\repos\Project1\Project1\cashData.cpp(101,21): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\j9794\source\repos\Project1\Project1\cashData.cpp(103,21): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\j9794\source\repos\Project1\Project1\cashData.cpp(105,21): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\j9794\source\repos\Project1\Project1\cashData.cpp(107,21): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\j9794\source\repos\Project1\Project1\cashData.cpp(109,21): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\j9794\source\repos\Project1\Project1\cashData.cpp(113,22): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\j9794\source\repos\Project1\Project1\cashData.cpp(118,22): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\j9794\source\repos\Project1\Project1\cashData.cpp(122,21): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\j9794\source\repos\Project1\Project1\cashData.cpp(125,21): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\j9794\source\repos\Project1\Project1\cashData.cpp(127,21): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\j9794\source\repos\Project1\Project1\cashData.cpp(129,21): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\j9794\source\repos\Project1\Project1\cashData.cpp(131,21): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\j9794\source\repos\Project1\Project1\cashData.cpp(133,21): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\j9794\source\repos\Project1\Project1\cashData.cpp(135,21): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\j9794\source\repos\Project1\Project1\cashData.cpp(140,21): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\j9794\source\repos\Project1\Project1\cashData.cpp(222,21): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\j9794\source\repos\Project1\Project1\cashData.cpp(234,21): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\j9794\source\repos\Project1\Project1\cashData.cpp(236,21): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\j9794\source\repos\Project1\Project1\cashData.cpp(238,21): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\j9794\source\repos\Project1\Project1\cashData.cpp(240,21): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\j9794\source\repos\Project1\Project1\cashData.cpp(242,21): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\j9794\source\repos\Project1\Project1\cashData.cpp(244,21): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\j9794\source\repos\Project1\Project1\cashData.cpp(248,22): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\j9794\source\repos\Project1\Project1\cashData.cpp(254,21): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\j9794\source\repos\Project1\Project1\cashData.cpp(258,21): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\j9794\source\repos\Project1\Project1\cashData.cpp(260,21): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\j9794\source\repos\Project1\Project1\cashData.cpp(262,21): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\j9794\source\repos\Project1\Project1\cashData.cpp(264,21): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\j9794\source\repos\Project1\Project1\cashData.cpp(266,21): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\j9794\source\repos\Project1\Project1\cashData.cpp(268,21): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\j9794\source\repos\Project1\Project1\cashData.cpp(273,21): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\j9794\source\repos\Project1\Project1\cashData.cpp(330,21): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\j9794\source\repos\Project1\Project1\cashData.cpp(332,21): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\j9794\source\repos\Project1\Project1\cashData.cpp(334,21): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\j9794\source\repos\Project1\Project1\cashData.cpp(336,21): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\j9794\source\repos\Project1\Project1\cashData.cpp(338,21): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\j9794\source\repos\Project1\Project1\cashData.cpp(340,21): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\j9794\source\repos\Project1\Project1\cashData.cpp(350,22): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\j9794\source\repos\Project1\Project1\cashData.cpp(686,21): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\j9794\source\repos\Project1\Project1\cashData.cpp(707,21): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  소스.cpp
+  코드를 생성하고 있습니다...
+  Project1.vcxproj -> C:\Users\j9794\source\repos\Project1\Debug\Project1.exe
